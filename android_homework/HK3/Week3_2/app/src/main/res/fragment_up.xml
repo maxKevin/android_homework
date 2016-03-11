@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="wolfogre.kt3_5_1.UpFragment"
+             android:background="@color/upFragmentBackground">
+
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="提交点啥呗......"
+		android:id="@+id/textView"
+		android:layout_gravity="center_horizontal|top"/>
+</FrameLayout>

@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">KH5_5</string>
+	<string name="app_description">用drawer实现一个相册功能，点击选项，切换照片。照片文字可自行替换。</string>
+</resources>

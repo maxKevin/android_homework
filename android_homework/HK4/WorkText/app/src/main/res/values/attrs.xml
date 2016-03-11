@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="show">
+        <attr name="mark"   format="integer"/>
+        <attr name="rectx"  format="float"/>
+        <attr name="recty"  format="float"/>
+        <attr name="high"   format="float"/>
+        <attr name="length" format="float"/>
+        <attr name="colour"  format="integer"/>
+    </declare-styleable>
+</resources>

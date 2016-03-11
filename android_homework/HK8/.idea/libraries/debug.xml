@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week8/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_d0386a94fb35c6092dad2cdd14dc8a6ff3ae8175.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8/app/build/intermediates/pre-dexed/debug/debug_ef6ae5292eb9c0ef6e1168f9e3d46870d3a96e62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_387613368d99a9beaceb95349a90f4da96ab4fbd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_ff41d32ce94070713ff05ecd4776b8575a859f46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_65aa8b20810b4cd0fde3fb923804dd08808a575a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
